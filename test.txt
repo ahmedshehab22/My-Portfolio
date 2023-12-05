@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-1-hex { color: #190357; }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-2-hex { color: #263487; }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-3-hex { color: #FFFFFF; }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-4-hex { color: #68BEDE; }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-5-hex { color: #58B865; }
+
+/* Color Theme Swatches in RGBA */
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-1-rgba { color: rgba(25, 2, 86, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-2-rgba { color: rgba(37, 52, 135, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-3-rgba { color: rgba(255, 255, 255, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-4-rgba { color: rgba(104, 190, 221, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-5-rgba { color: rgba(88, 183, 100, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-1-hsla { color: hsla(255, 94, 17, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-2-hsla { color: hsla(231, 56, 33, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-3-hsla { color: hsla(0, 0, 100, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-4-hsla { color: hsla(195, 63, 63, 1); }
+.Copy-of-Copy-of-Celaria-blue-electric-and-green-5-hsla { color: hsla(128, 40, 53, 1); }
